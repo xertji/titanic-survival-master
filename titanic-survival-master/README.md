@@ -5,7 +5,7 @@ This is analaysis of survival of People from Titanic dataset on kaggle.For more 
 
 ## Pre-Processing of data  
   
-  Detecting outliners and removing them since they can have significant effect in regression.
+  Detecting outliners and removing them by Turkey method since they can have significant effect in regression.
   
   Filling or removing missed values depending on availaility of data.
   
@@ -19,9 +19,9 @@ This is analaysis of survival of People from Titanic dataset on kaggle.For more 
   
   Correlation matrix for finding relationship between varibales. 
   
-  Plotting Survival Probability for eight different factors given.
+  Plotting Survival Probability for eight different factors like Parch , age , sex , pclass, embarked etc.
   
-  Visualising data with Box plots.
+  Visualising data with Box plots , bar plots and violin plots.
 
 ## Modelling 
   
